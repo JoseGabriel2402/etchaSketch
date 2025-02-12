@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+}
+#grid{
+    display: flex;
+    flex-wrap: wrap;
+    width:800px;
+    height: 800px;
+    justify-self: center;
+
+}
+.square{
+    background-color: grey;
+    
+}
